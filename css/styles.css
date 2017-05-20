@@ -1,0 +1,23 @@
+div.divilize-table {
+    display: table;
+}
+
+div.divilize-thead {
+    display: table-header-group;
+}
+
+div.divilize-tbody {
+    display: table-row-group;
+}
+
+div.divilize-tfoot {
+    display: table-footer-group;
+}
+
+div.divilize-tr {
+    display: table-row;
+}
+
+div.divilize-td {
+    display: table-cell;
+}
